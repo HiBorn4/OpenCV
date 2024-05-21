@@ -1,3 +1,0 @@
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/CMakeFiles/ConnectedComponents.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/CMakeFiles/edit_cache.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/CMakeFiles/rebuild_cache.dir

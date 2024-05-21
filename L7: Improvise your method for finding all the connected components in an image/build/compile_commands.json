@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/build",
-  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -o CMakeFiles/ConnectedComponents.dir/connected_components.cpp.o -c \"/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/connected_components.cpp\"",
-  "file": "/home/hi-born4/6th Sem/Image Processing and Computer Vision/L7: Improvise your method for finding all the connected components in an image/connected_components.cpp"
-}
-]

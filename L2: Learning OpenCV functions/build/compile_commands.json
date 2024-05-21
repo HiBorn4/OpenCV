@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/build",
-  "command": "/usr/bin/g++ -isystem /usr/local/include/opencv4 -g -o CMakeFiles/DisplayImage.dir/read_write_image.cpp.o -c \"/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/read_write_image.cpp\"",
-  "file": "/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/read_write_image.cpp"
-}
-]

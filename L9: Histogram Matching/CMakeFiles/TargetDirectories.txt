@@ -1,3 +1,0 @@
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L9: Histogram Matching/CMakeFiles/HistogramMatching.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L9: Histogram Matching/CMakeFiles/edit_cache.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L9: Histogram Matching/CMakeFiles/rebuild_cache.dir

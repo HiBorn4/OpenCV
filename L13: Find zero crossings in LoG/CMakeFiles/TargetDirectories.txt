@@ -1,3 +1,0 @@
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L13: Find zero crossings in LoG/CMakeFiles/LOG.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L13: Find zero crossings in LoG/CMakeFiles/edit_cache.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L13: Find zero crossings in LoG/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/build/CMakeFiles/DisplayImage.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/build/CMakeFiles/edit_cache.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/Assignment 2/build/CMakeFiles/rebuild_cache.dir

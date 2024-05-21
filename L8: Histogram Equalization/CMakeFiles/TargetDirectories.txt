@@ -1,3 +1,0 @@
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L8: Histogram Equalization/CMakeFiles/HistogramEqualization.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L8: Histogram Equalization/CMakeFiles/edit_cache.dir
-/home/hi-born4/6th Sem/Image Processing and Computer Vision/L8: Histogram Equalization/CMakeFiles/rebuild_cache.dir
