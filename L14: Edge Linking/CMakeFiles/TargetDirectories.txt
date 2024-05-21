@@ -1,0 +1,3 @@
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L14: Edge Linking/CMakeFiles/EL.dir
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L14: Edge Linking/CMakeFiles/edit_cache.dir
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L14: Edge Linking/CMakeFiles/rebuild_cache.dir

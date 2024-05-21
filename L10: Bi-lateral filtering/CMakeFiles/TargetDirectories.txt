@@ -1,0 +1,3 @@
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L10: Bi-lateral filtering/CMakeFiles/BilateralFiltering.dir
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L10: Bi-lateral filtering/CMakeFiles/edit_cache.dir
+/home/hi-born4/6th Sem/Image Processing and Computer Vision/L10: Bi-lateral filtering/CMakeFiles/rebuild_cache.dir
